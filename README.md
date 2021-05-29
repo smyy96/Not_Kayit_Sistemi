@@ -1,5 +1,5 @@
 # Not_Kayit_Sistemi
-<p> C# <br/>
- MS SQL
+<p> C# Programlama dili ile yazılmıştır.<br/>
+ Veri tabanı: MS SQL
 </p>
  
