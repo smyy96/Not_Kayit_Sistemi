@@ -1,3 +1,5 @@
 # Not_Kayit_Sistemi
-<p> C# </p>
+<p> C# 
+ MS SQL
+</p>
  
